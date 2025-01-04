@@ -8,6 +8,6 @@ def maxsub(arr):
 
             res = max(res,cursum)
     return res
-
+  
 arr =[7,-1,2,3,4,6,1]
 print(maxsub(arr))  
